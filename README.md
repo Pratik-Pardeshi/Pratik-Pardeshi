@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Pratik Pardeshi</h1>
-🌱 I’m currently learning Aws and Dev-Ops<br>💬 Ask me about Aws and Dev-Ops<br>🙍‍♂️  How to reach me pspardeshi2002@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/Pratik-pardeshi<br>📄 Know about my experiences [[[https://drive.google.com/file/d/1jgQeodvWJB_vGzTTdt5vbOiiWpxTTAzM/view?usp=sharing](https://github.com/Pratik-Pardeshi?tab=repositories](https://drive.google.com/file/d/1K4rKbkUR8uwqqB64xFmstPGJ7KkSdtqj/view?usp=drive_link))](https://drive.google.com/file/d/1K4rKbkUR8uwqqB64xFmstPGJ7KkSdtqj/view?usp=drive_link)]
+🌱 I’m currently learning Aws and Dev-Ops<br>💬 Ask me about Aws and Dev-Ops<br>🙍‍♂️  How to reach me pspardeshi2002@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/Pratik-pardeshi<br>📄 Know about my experiences [[[[https://drive.google.com/file/d/1jgQeodvWJB_vGzTTdt5vbOiiWpxTTAzM/view?usp=sharing](https://github.com/Pratik-Pardeshi?tab=repositories](https://drive.google.com/file/d/1K4rKbkUR8uwqqB64xFmstPGJ7KkSdtqj/view?usp=drive_link))](https://drive.google.com/file/d/1K4rKbkUR8uwqqB64xFmstPGJ7KkSdtqj/view?usp=drive_link)]](https://drive.google.com/file/d/1K4rKbkUR8uwqqB64xFmstPGJ7KkSdtqj/view?usp=drive_link)
 
 
 ## 🌐 Socials:
